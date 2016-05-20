@@ -9,7 +9,7 @@ Has no dependencies other than Common Lisp, so should run anywhere.
 
 ## Usage
 
-Clone repo into quicklisp ```local-projects```` directory and
+Clone repo into quicklisp ```local-projects``` directory and
 quickload :with-filters and you should be good to go. (You may
 need to ```quicklisp:register-local-projects```).
 
